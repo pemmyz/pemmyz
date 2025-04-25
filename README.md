@@ -5,7 +5,7 @@
 - 📫 How to reach me: github
 - ⚡ Fun fact: github
 
-Easiest way to get started with git, Harward lecture by Brian Yu:
+Easiest way to get started with git, Harvard lecture by Brian Yu:
 
 [CS50W - Lecture 1 - Git](https://www.youtube.com/watch?v=NcoBAfJ6l2Q)
 
