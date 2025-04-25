@@ -2,8 +2,8 @@
 - 👀 I’m interested in github
 - 🌱 I’m currently learning github
 - 💞️ I’m looking to collaborate on github
-- 📫 How to reach me: github
-- ⚡ Fun fact: github
+- 📫 How to reach me: github or at X https://x.com/pemmyzen
+- ⚡ Fun fact: github 
 
 Easiest way to get started with git, Harvard lecture by Brian Yu:
 
