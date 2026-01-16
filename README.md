@@ -9,10 +9,15 @@ Easiest way to get started with git, Harvard lecture by Brian Yu:
 <br>[CS50W - Lecture 1 - Git](https://www.youtube.com/watch?v=NcoBAfJ6l2Q)
 <br>https://www.youtube.com/watch?v=NcoBAfJ6l2Q
 
+
+<details>
+<summary>Enable animation:</summary>
+
 ![Game 1](https://pemmyz.github.io/js_githeatmap/heatmaps/heatmap_1.webp)
 ![Game 1](https://pemmyz.github.io/js_githeatmap/heatmaps/heatmap_2.webp)
 <br>Made using: https://pemmyz.github.io/js_githeatmap/
 <br>repo: https://github.com/pemmyz/js_githeatmap/
+</details>
 
 <!---
 pemmyz/pemmyz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
