@@ -11,6 +11,8 @@ Easiest way to get started with git, Harvard lecture by Brian Yu:
 
 ![Game 1](https://pemmyz.github.io/js_githeatmap/heatmaps/heatmap_1.webp)
 ![Game 1](https://pemmyz.github.io/js_githeatmap/heatmaps/heatmap_2.webp)
+Made using: https://pemmyz.github.io/js_githeatmap/
+repo: https://github.com/pemmyz/js_githeatmap/
 
 <!---
 pemmyz/pemmyz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
