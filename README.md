@@ -11,7 +11,7 @@ Easiest way to get started with git, Harvard lecture by Brian Yu:
 
 
 <details>
-<summary>Enable animation:</summary>
+<summary>Enable animation: (Click Here)</summary>
 
 ![Game 1](https://pemmyz.github.io/js_githeatmap/heatmaps/heatmap_1.webp)
 ![Game 1](https://pemmyz.github.io/js_githeatmap/heatmaps/heatmap_2.webp)
